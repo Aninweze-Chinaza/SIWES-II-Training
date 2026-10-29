@@ -47,7 +47,7 @@ graph TD
     
     AP1 -.-> M1(Mobile Clients)
     AP2 -.-> M2(Mobile Clients)
-
+```
 ## 🚀 How to Run the Code
 To test any of the data structure implementations locally:
 
